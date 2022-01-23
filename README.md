@@ -1,3 +1,20 @@
+# Running App with Docker
+
+## After clone the 2 projects, run `docker-compose up`
+
+## Git repositores
+https://github.com/esaupf/indicators-api
+https://github.com/esaupf/indicators-web
+
+Note: the name of projects need the same in configuration `context` into `docker-compose.yml`:
+- indicators-api
+- indicators-web
+
+## Access app
+
+http://localhost
+
+
 # IndicatorsWeb
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.15.
